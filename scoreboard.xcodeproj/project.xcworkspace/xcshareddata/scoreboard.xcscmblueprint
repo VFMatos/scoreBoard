@@ -1,13 +1,15 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "89832B9E5F4F5E31344075E466835197F9FF0F00",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4B8881CD81DF4B4FDFEBCBEE21F3F8AD8DB4AE0F",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4B8881CD81DF4B4FDFEBCBEE21F3F8AD8DB4AE0F" : 0,
     "89832B9E5F4F5E31344075E466835197F9FF0F00" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2BA69DE4-6A22-42B4-BA9C-BA821AEAE3A0",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4B8881CD81DF4B4FDFEBCBEE21F3F8AD8DB4AE0F" : "scoreboard\/",
     "89832B9E5F4F5E31344075E466835197F9FF0F00" : ""
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "scoreboard",
@@ -17,7 +19,7 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/VFMatos\/scoreboard.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "89832B9E5F4F5E31344075E466835197F9FF0F00"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4B8881CD81DF4B4FDFEBCBEE21F3F8AD8DB4AE0F"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:VFMatos\/scoreboard.git",
